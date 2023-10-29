@@ -72,7 +72,7 @@
       "required": false
     },
     {
-      "name": "tlp_green_mail_domains",
+      "name": "mail_address_to",
       "description": "Mail domains which are allowed to receive tlp:green classified incidents",
       "type": "string",
       "multi": true,
