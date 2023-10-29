@@ -94,5 +94,5 @@
             "required": true
         }
     ],
-    "dockerImage": "docker.io/cortexneurons/mailincidentstatus:1"
+    "dockerImage": "docker.io/samyda1/mailincidentstatus:1"
 }
